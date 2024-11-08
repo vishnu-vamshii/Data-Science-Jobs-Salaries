@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard that visualizes key insights into data science job salaries, leveraging data points like experience level, job type, company size, and geographic distribution. This dashboard serves as an exploration tool for understanding trends and patterns in compensation across the global data science industry.
 
-![Dashboard Preview](https://public.tableau.com/app/profile/vishnu.vamshi.vidyapathi.sharma/viz/DataScienceJobsSalary_17310380504220/Dashboard1) 
+[🔗 Dashboard Preview](https://public.tableau.com/app/profile/vishnu.vamshi.vidyapathi.sharma/viz/DataScienceJobsSalary_17310380504220/Dashboard1) 
 
 ---
 
